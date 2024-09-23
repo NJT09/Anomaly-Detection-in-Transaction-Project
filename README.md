@@ -1,0 +1,1 @@
+This project is made to enable people to detect anomalies in a transaction by entering the number of transaction amount, average transaction amount, and frequency of transactions. The model will automatically flagged the transaction as an anomaly if the pre-determined conditions are met.
